@@ -13,3 +13,6 @@ Data Science
 sql vs msql
 
 Oracle Developer
+
+
+Ajay Annam
