@@ -9,3 +9,5 @@ Devops
 python developer
 
 Data Science
+
+sql vs msql
